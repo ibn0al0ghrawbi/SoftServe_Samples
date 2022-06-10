@@ -1,4 +1,4 @@
-let input = "bitcoin take over the world maybe who knows perhaps";
+let input = "bitcoin take over the world maybe who knows perhaps"; //or any other input string
 let inputArray = input.split(' ');
 
 let shortest = 1000000000;
