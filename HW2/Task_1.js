@@ -2,8 +2,7 @@
 
 
 function meeting(conferenceArray, chairsNeeded){
-	console.log('input: ', conferenceArray, chairsNeeded);
-
+	
   
   let myChairs = 8 - chairsNeeded;
   const output = [];
