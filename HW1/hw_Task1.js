@@ -20,6 +20,12 @@ function countDuplicates(input){
 	return duplicates.size;
 }
 
-console.log(countDuplicates('Indivisibilities'));
+console.log(countDuplicates("abcde"));
+console.log(countDuplicates("aabbcde"));
+console.log(countDuplicates("aabBcde"));
+console.log(countDuplicates("indivisibility"));
+console.log(countDuplicates("Indivisibilities"));
+console.log(countDuplicates("aA11"));
+console.log(countDuplicates("ABBA"));
 
 
